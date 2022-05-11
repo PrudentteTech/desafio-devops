@@ -1,10 +1,8 @@
 # Desafio Prudentte - DevOps/SRE
 
-Obrigado pelo interesse em fazer parte no nosso time! Para participar do processo de seleção, é necessário que todos os interessados pela vaga realizem esse desafio. Basta realizar um fork desse repositório e após a finalização, enviar um email para matheus.mortari@prudentte.com.br ou entrar em contato com quem te contactou, notificando a finalização do desafio.
+Obrigado pelo interesse em fazer parte no nosso time! Para participar do processo de seleção, é necessário que todos os interessados pela vaga façam esse desafio. Basta realizar um fork desse repositório e após a finalização, entre em contato com quem te contactou, notificando a finalização do desafio.
 
 Se não entender algum conceito ou parte do problema, não é motivo para se preocupar! Queremos que faça o desafio até onde souber.
-
-Qualquer dúvida, entre em contato! Boa sorte 😄
 
 ## Arquitetura
 
@@ -28,4 +26,6 @@ Construa a arquitetura utilizando Kubernetes:
 ## Diferenciais
 
 - Boas práticas
-- Arquivos de configuração (Secret)
+- Arquivos de configuração (Secrets, configmaps, ...)
+
+Qualquer dúvida, entre em contato! Boa sorte 😄
